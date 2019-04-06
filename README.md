@@ -1,2 +1,3 @@
-# go-rest-api
-A simple rest api with go lang
+# GO Rest API
+
+> A simple rest api with go lang
