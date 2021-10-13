@@ -1,3 +1,3 @@
-# Go Simple Rest API
+# Go Rest API Example
 
-A simple rest API with Go lang.
+A rest API with Go lang.
